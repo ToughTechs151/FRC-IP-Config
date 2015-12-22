@@ -9,6 +9,7 @@ The program will first prompt you to select the network device you are using to 
 
 
 Then it will ask you to choose one of 3 IP settings:
+
 1. DHCP
 2. Wired (IP will end in .5)
 3. Wireless (IP will end in .9)
